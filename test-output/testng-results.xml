@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30089" started-at="2017-10-31T04:39:36Z" finished-at="2017-10-31T04:40:06Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30089" started-at="2017-10-31T04:39:36Z" finished-at="2017-10-31T04:40:06Z">
+      <class name="TestNg.Test1">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:TestNg.Test1@63753b6d]" name="beforeSuite" is-config="true" duration-ms="327" started-at="2017-10-30T23:39:36Z" finished-at="2017-10-30T23:39:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestNg.Test1@63753b6d]" name="beforeTest" is-config="true" duration-ms="0" started-at="2017-10-30T23:39:36Z" finished-at="2017-10-30T23:39:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:TestNg.Test1@63753b6d]" name="beforeClass" is-config="true" duration-ms="0" started-at="2017-10-30T23:39:36Z" finished-at="2017-10-30T23:39:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:TestNg.Test1@63753b6d]" name="beforeMethod" is-config="true" duration-ms="6" started-at="2017-10-30T23:39:36Z" finished-at="2017-10-30T23:39:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestNg.Test1.GoogleTest1() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="GoogleTest1()[pri:0, instance:TestNg.Test1@63753b6d]" name="GoogleTest1" duration-ms="14122" started-at="2017-10-30T23:39:36Z" finished-at="2017-10-30T23:39:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleTest1 -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:TestNg.Test1@63753b6d]" name="afterMethod" is-config="true" duration-ms="2001" started-at="2017-10-30T23:39:50Z" finished-at="2017-10-30T23:39:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestNg.Test1.GoogleTest1() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="GoogleTest2()[pri:0, instance:TestNg.Test1@63753b6d]" name="GoogleTest2" duration-ms="12345" started-at="2017-10-30T23:39:52Z" finished-at="2017-10-30T23:40:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleTest2 -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:TestNg.Test1@63753b6d]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-10-30T23:39:52Z" finished-at="2017-10-30T23:39:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestNg.Test1.GoogleTest2() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:TestNg.Test1@63753b6d]" name="afterMethod" is-config="true" duration-ms="1590" started-at="2017-10-30T23:40:05Z" finished-at="2017-10-30T23:40:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestNg.Test1.GoogleTest2() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestNg.Test1@63753b6d]" name="afterClass" is-config="true" duration-ms="0" started-at="2017-10-30T23:40:06Z" finished-at="2017-10-30T23:40:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestNg.Test1@63753b6d]" name="afterTest" is-config="true" duration-ms="0" started-at="2017-10-30T23:40:06Z" finished-at="2017-10-30T23:40:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite(org.testng.ITestContext)[pri:0, instance:TestNg.Test1@63753b6d]" name="afterSuite" is-config="true" duration-ms="0" started-at="2017-10-30T23:40:06Z" finished-at="2017-10-30T23:40:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@60afd40d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- TestNg.Test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
