@@ -5,4 +5,5 @@
 <entry key="APPLICATION">TestNGProj</entry>
 <entry key="ENVIRONMENT">Env1</entry>
 
+<entry key="URL">https://www.google.com</entry>
 </properties>

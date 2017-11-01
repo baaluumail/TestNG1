@@ -36,7 +36,7 @@ public class Test1 extends BusinessFunctions {
 			String methodName=Thread.currentThread().getStackTrace()[1].getMethodName();
 			TestDataRead(methodName);
 			InitializeBrowser();
-			driver.get("https://www.google.com");
+			driver.get(lib.configData.getProperty("URL"));
 			lib.setText(driver, orep.searchbox, Query );
 			lib.GetObject(driver, orep.clickSearch).click();
 
